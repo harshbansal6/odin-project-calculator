@@ -23,7 +23,7 @@ body {
     height: 60px;
     margin-bottom: 40px;
     background-color:  #c1dadf;
-    border: 1px solid #4c4c4c;
+    border: 2px solid #4c4c4c;
     border-radius: 5px; 
     font-size: 50px;
     text-align: end;   
@@ -55,5 +55,5 @@ body {
     background-color: #e75f5f;
 }
 .operator {
-    background-color: #66c9cc;
+    background-color: green;
 }
